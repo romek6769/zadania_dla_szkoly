@@ -149,14 +149,7 @@ Wybierz opcje (1-6): 1
 ----------------------
 ```
 
-## Zrzuty ekranu
 
-*(Miejsce na zrzuty ekranu przedstawiające działanie aplikacji)*
-
-```markdown
-![Menu główne programu](screenshots/menu.png)
-![Lista wydarzeń i rezerwacja](screenshots/rezerwacja.png)
-```
 
 ## Autor
 
